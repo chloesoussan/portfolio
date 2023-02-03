@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="44b31730-e889-4020-9c0e-0b45d5b15344" name="portfolio-chloesoussan.fr" url="http://portfolio-chloesoussan.fr">
+        <fileTransfer accessType="SFTP" host="access900912150.webspace-data.io" port="22" sshConfigId="3e216ce6-f93d-42ec-8fd1-10016c6142f1" sshConfig="u107406114@access900912150.webspace-data.io:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
